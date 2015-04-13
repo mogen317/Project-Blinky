@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-jan-16 BZR unknown)-product   date = Monday, April 13, 2015 'PMt' 04:28:07 PM
+
+BeginCmp
+TimeStamp = /552BD7DA;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /552BEC4D;
+Reference = U1;
+ValeurCmp = STM32L15x_QFN48;
+IdModule  = Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm;
+EndCmp
+
+EndListe
